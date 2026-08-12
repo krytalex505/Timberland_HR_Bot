@@ -1,11 +1,11 @@
 import os
 
 # Токен бота
-TOKEN = "7116003350:AAHDWrpLEvxt2jtDiE6bhC-v6A3uRz0zQNw"
+TOKEN = ""
 BOT_TOKEN = TOKEN
 
 # ID чата HR
-HR_CHAT_ID = 1349669120
+HR_CHAT_ID = 
 HR_CHAT_IDS = [HR_CHAT_ID]
 
 # Для обратной совместимости
